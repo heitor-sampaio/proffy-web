@@ -1,3 +1,56 @@
+![](/src/assets/images/banner.png)
+<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat-square&logo=REACT" style="margin: 5px"/>
+<img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat-square&logo=NODE.JS" style="margin: 5px"/>
+
+**This application is the result of Rocketseat Next Level Week 2 and still in development by me for training purposes.**
+
+Proffy is a platform to connect students and teachers for private lessons in brazilian high school subjects.
+
+"Proffy" is nickname to "Professor", wich is a brazilian word for teacher.
+
+Built with ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.
+
+On it's current state, you can:
+- Offer new lessons as a teacher
+- Select a subject, day and time to list all available teachers
+- Contact teachers via a whatsapp web integration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
