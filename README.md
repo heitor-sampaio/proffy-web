@@ -1,10 +1,6 @@
 ![](/src/assets/images/banner.png)
 
-<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/>
-<img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/>
-<img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" />
-<img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
-
+<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/><img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/><img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" /><img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
 
 **This application is the result of Rocketseat Next Level Week 2 and still in development by me for training purposes.**
 
@@ -50,6 +46,6 @@ On it's current state, you can:
 **If that does not happen, open your favorite browser and type http://localhost:3000 in the navigation bar.**
 
 ## Need help? Contact me!
-<a href="https://facebook.com/sampaioheitor"><img src="https://simpleicons.org/icons/facebook.svg" style="width: 16px; height: 16px; color: #1877f2; margin-right: 15px;"/>Heitor Sampaio</a><br/>
-<a href="https://www.linkedin.com/in/heitor-sampaio/" style="margin-top: 30px;"><img src="https://simpleicons.org/icons/linkedin.svg" style="width: 16px; height: 16px; color: #1877f2; margin-right: 15px;"/>Heitor Sampaio</a>
+<a href="https://facebook.com/sampaioheitor">Facebook/sampaioheitor</a><br/>
+<a href="https://www.linkedin.com/in/heitor-sampaio/" style="margin-top: 30px;">Linkedin/in/heitor-sampaio</a>
 
