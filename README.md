@@ -1,6 +1,10 @@
 ![](/src/assets/images/banner.png)
-<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat-square&logo=REACT" style="margin: 5px"/>
-<img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat-square&logo=NODE.JS" style="margin: 5px"/>
+
+<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/>
+<img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/>
+<img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" />
+<img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
+
 
 **This application is the result of Rocketseat Next Level Week 2 and still in development by me for training purposes.**
 
@@ -13,85 +17,39 @@ Built with ReactJs, this module is the web interface of the application and cons
 On it's current state, you can:
 - Offer new lessons as a teacher
 - Select a subject, day and time to list all available teachers
-- Contact teachers via a whatsapp web integration
+- As a student, contact teachers via a whatsapp web integration
 
 
+## **How to run it**
 
+### **Dependencies**
 
+- Yarn or npm
+- [Proffy's API](https://github.com/heitor-sampaio/proffy-server) running
 
+### **Running locally**
 
+1. Clone the project:
 
+```git clone https://github.com/heitor-sampaio/proffy-web```
 
+2. Go to project folder
 
+```cd proffy-web```
 
+3. Install all dependencies
 
+```yarn install```
 
+4. Run the project
 
+```yarn start```
 
+**This module will run on localhost port 3000 and automaticaly open it in your default web browser.**
 
+**If that does not happen, open your favorite browser and type http://localhost:3000 in the navigation bar.**
 
+## Need help? Contact me!
+<a href="https://facebook.com/sampaioheitor"><img src="https://simpleicons.org/icons/facebook.svg" style="width: 16px; height: 16px; color: #1877f2; margin-right: 15px;"/>Heitor Sampaio</a><br/>
+<a href="https://www.linkedin.com/in/heitor-sampaio/" style="margin-top: 30px;"><img src="https://simpleicons.org/icons/linkedin.svg" style="width: 16px; height: 16px; color: #1877f2; margin-right: 15px;"/>Heitor Sampaio</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
