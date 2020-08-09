@@ -50,7 +50,7 @@ Built with ReactJs, this module is the web interface of the application and cons
 ## **How to run it**
 
 ### **Dependencies**
-- Yarn or npm
+- [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 - [Proffy's API](https://github.com/heitor-sampaio/proffy-server) running
 
 ### **Running locally**
