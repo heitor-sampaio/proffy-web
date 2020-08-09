@@ -1,9 +1,24 @@
 ![](/src/assets/images/banner.png)
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" />    <img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
+<img src="https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=flat&logo=TYPESCRIPT" style="margin: 5px"/>    <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" />    <img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
 </p>
 
-**This application is the result of Rocketseat Next Level Week 2 and still in development by me for training purposes.**
+**This application is the result of [Rocketseat](https://rocketseat.com.br) [Next Level Week 2](https://nextlevelweek.com/) and still in development by me for training purposes.**
+
+<br/>
+
+## Sumary
+- [Description](#description)
+- [Demo](#demo)
+- [How to run](#how-to-run-it)
+  - [Depencies](#dependencies)
+  - [Running locally](#running-locally)
+- [To be implemented](#to-be-implemented)
+- [Help](#help)
+
+<br/>
+
+## Description
 
 Proffy is a platform to connect students and teachers for private lessons in brazilian high school subjects.
 
@@ -15,13 +30,13 @@ On it's current state, you can:
 - Offer new lessons as a teacher
 - Select a subject, day and time to list all available teachers
 - As a student, contact teachers via a whatsapp web integration
-
+<br/>
 
 ## **Demo**
 <p align="center">
 <img src="/src/assets/images/create-class.gif" width="450px"/>    <img src="/src/assets/images/list-classes.gif" width="450px"/>
 </p>
-
+<br/>
 
 ## **How to run it**
 
@@ -29,6 +44,7 @@ On it's current state, you can:
 
 - Yarn or npm
 - [Proffy's API](https://github.com/heitor-sampaio/proffy-server) running
+<br/>
 
 ### **Running locally**
 
@@ -51,8 +67,19 @@ On it's current state, you can:
 **This module will run on localhost port 3000 and automaticaly open it in your default web browser.**
 
 **If that does not happen, open your favorite browser and type http://localhost:3000 in the navigation bar.**
+<br/>
 
-## Need help? Contact me!
-<a href="https://facebook.com/sampaioheitor">Facebook/sampaioheitor</a><br/>
-<a href="https://www.linkedin.com/in/heitor-sampaio/" style="margin-top: 30px;">Linkedin/in/heitor-sampaio</a>
+## To be implemented
+- [ ] Migrate database to Postgres
+- [ ] User accounts and authentication
+- [ ] Profile editing
+- [ ] Favorite teachers
+- [ ] Changes on filters behavior
+<br/>
+
+## Help 
+Need help? Contact me!<br/><br/>
+<a href="https://facebook.com/sampaioheitor"><img src="https://simpleicons.org/icons/facebook.svg" width="32px" height="32px"/></a>  
+<a href="https://www.linkedin.com/in/heitor-sampaio/"><img src="https://simpleicons.org/icons/linkedin.svg" width="32px" height="32px"/></a>  
+<a href="mailto:heitorosampaio@gmail.com"><img src="https://simpleicons.org/icons/mail-dot-ru.svg" width="32px" height="32px"/></a>
 
