@@ -15,7 +15,6 @@
   - [Running locally](#running-locally)
 - [To be implemented](#to-be-implemented)
 - [Help](#help)
-
 <br/>
 
 ## Description
@@ -36,18 +35,14 @@ On it's current state, you can:
 <p align="center">
 <img src="/src/assets/images/create-class.gif" width="450px"/>    <img src="/src/assets/images/list-classes.gif" width="450px"/>
 </p>
-<br/>
 
 ## **How to run it**
 
 ### **Dependencies**
-
 - Yarn or npm
 - [Proffy's API](https://github.com/heitor-sampaio/proffy-server) running
-<br/>
 
 ### **Running locally**
-
 1. Clone the project:
 
 ```git clone https://github.com/heitor-sampaio/proffy-web```
@@ -67,6 +62,7 @@ On it's current state, you can:
 **This module will run on localhost port 3000 and automaticaly open it in your default web browser.**
 
 **If that does not happen, open your favorite browser and type http://localhost:3000 in the navigation bar.**
+
 <br/>
 
 ## To be implemented
@@ -75,6 +71,7 @@ On it's current state, you can:
 - [ ] Profile editing
 - [ ] Favorite teachers
 - [ ] Changes on filters behavior
+
 <br/>
 
 ## Help 
