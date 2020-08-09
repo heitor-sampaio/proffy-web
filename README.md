@@ -30,7 +30,8 @@ On it's current state, you can:
 <br/>
 
 ## **Technologies**
-Built with ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.
+Built with ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.<br/>
+The main technologies used in this project are in the list below:
 
 - [Typescript](https://www.typescriptlang.org/)
 - [NodeJs](https://nodejs.org)
