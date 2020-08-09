@@ -1,9 +1,9 @@
 ![](/src/assets/images/banner.png)
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=flat&logo=TYPESCRIPT"/>    <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS"/>   <img src="https://img.shields.io/badge/version-1.0-brightgreen"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web"/> 
+<img src="https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=flat&logo=TYPESCRIPT"/>    <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS"/>   <img src="https://img.shields.io/badge/version-1.0-brightgreen"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web"/>    <img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web"/> 
 </p>
 
-**This application is the result of [Rocketseat](https://rocketseat.com.br) [Next Level Week 2](https://nextlevelweek.com/) and will be improved by me for training purposes.**
+<p align="center">**This application is the result of [Rocketseat](https://rocketseat.com.br) [Next Level Week 2](https://nextlevelweek.com/) and will be improved by me for training purposes.**</p>
 
 <br/>
 
