@@ -1,14 +1,15 @@
 ![](/src/assets/images/banner.png)
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=flat&logo=TYPESCRIPT" style="margin: 5px"/>    <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" />    <img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
+<img src="https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=flat&logo=TYPESCRIPT"/>    <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS"/>   <img src="https://img.shields.io/badge/version-1.0-brightgreen"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web"/> 
 </p>
 
-**This application is the result of [Rocketseat](https://rocketseat.com.br) [Next Level Week 2](https://nextlevelweek.com/) and still in development by me for training purposes.**
+**This application is the result of [Rocketseat](https://rocketseat.com.br) [Next Level Week 2](https://nextlevelweek.com/) and will be improved by me for training purposes.**
 
 <br/>
 
 ## Sumary
 - [Description](#description)
+- [Technologies](#technologies)
 - [Demo](#demo)
 - [How to run](#how-to-run-it)
   - [Depencies](#dependencies)
@@ -18,12 +19,9 @@
 <br/>
 
 ## Description
-
 Proffy is a platform to connect students and teachers for private lessons in brazilian high school subjects.
 
 "Proffy" is nickname to "Professor", wich is a brazilian word for teacher.
-
-Built with ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.
 
 On it's current state, you can:
 - Offer new lessons as a teacher
@@ -31,10 +29,23 @@ On it's current state, you can:
 - As a student, contact teachers via a whatsapp web integration
 <br/>
 
+## **Technologies**
+Built with ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.
+
+- [Typescript](https://www.typescriptlang.org/)
+- [NodeJs](https://nodejs.org)
+- [ReactJs](https://reactjs.org)
+- [Axios](https://github.com/axios/axios)
+- [SQLite(API)](https://www.sqlite.org/index.html)
+- [ESLint](https://eslint.org)
+- [Prettier](https://prettier.io)
+<br/>
+
 ## **Demo**
 <p align="center">
 <img src="/src/assets/images/create-class.gif" width="450px"/>    <img src="/src/assets/images/list-classes.gif" width="450px"/>
 </p>
+<br/>
 
 ## **How to run it**
 
@@ -59,8 +70,9 @@ On it's current state, you can:
 
 ```yarn start```
 
-**This module will run on localhost port 3000 and automaticaly open it in your default web browser.**
+<br/>
 
+**This module will run on localhost port 3000 and automaticaly open it in your default web browser.**<br/>
 **If that does not happen, open your favorite browser and type http://localhost:3000 in the navigation bar.**
 
 <br/>
