@@ -88,7 +88,7 @@ The main technologies used in this project are in the list below:
 <br/>
 
 ## Help 
-Need help? Contact me! :wink:<br/><br/>
+Need help? Want to contribute? Contact me! :wink:<br/><br/>
 <a href="https://facebook.com/sampaioheitor"><img src="https://simpleicons.org/icons/facebook.svg" width="32px" height="32px"/></a>  
 <a href="https://www.linkedin.com/in/heitor-sampaio/"><img src="https://simpleicons.org/icons/linkedin.svg" width="32px" height="32px"/></a>  
 <a href="mailto:heitorosampaio@gmail.com"><img src="https://simpleicons.org/icons/mail-dot-ru.svg" width="32px" height="32px"/></a>
