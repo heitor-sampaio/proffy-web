@@ -1,6 +1,7 @@
 ![](/src/assets/images/banner.png)
-
-<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/><img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/><img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" /><img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=flat&logo=REACT" style="margin: 5px"/>    <img src="https://img.shields.io/static/v1?label=NodeJs&message=framework&color=blue&style=flat&logo=NODE.JS" style="margin: 5px"/>    <img src="https://img.shields.io/github/license/heitor-sampaio/proffy-web" style="margin: 5px" />    <img src="https://img.shields.io/github/issues/heitor-sampaio/proffy-web?style=flat" style="margin: 5px" />
+</p>
 
 **This application is the result of Rocketseat Next Level Week 2 and still in development by me for training purposes.**
 
@@ -14,6 +15,12 @@ On it's current state, you can:
 - Offer new lessons as a teacher
 - Select a subject, day and time to list all available teachers
 - As a student, contact teachers via a whatsapp web integration
+
+
+## **Demo**
+<p align="center">
+<img src="/src/assets/images/create-class.gif" width="450px"/>    <img src="/src/assets/images/list-classes.gif" width="450px"/>
+</p>
 
 
 ## **How to run it**
