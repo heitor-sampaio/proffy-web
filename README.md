@@ -19,9 +19,15 @@
 <br/>
 
 ## Description
-Proffy is a platform to connect students and teachers for private lessons in brazilian high school subjects.
+This project is the result of a intense week of learning and coding.
+
+As a student in Rocketseat Bootcamp, I decided to take a break on the main course and focus in the NWL2, to build a basic fully functional fullstack project in one week.
+
+This project, named Proffy, is a platform to connect students and teachers for private lessons in brazilian high school subjects.
 
 "Proffy" is nickname to "Professor", wich is a brazilian word for teacher.
+
+Built with Typescript and ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.
 
 On it's current state, you can:
 - Offer new lessons as a teacher
@@ -30,7 +36,6 @@ On it's current state, you can:
 <br/>
 
 ## **Technologies**
-Built with ReactJs, this module is the web interface of the application and consumes an [API](https://github.com/heitor-sampaio/proffy-server), built in NodeJs, for data fetching.<br/>
 The main technologies used in this project are in the list below:
 
 - [Typescript](https://www.typescriptlang.org/)
